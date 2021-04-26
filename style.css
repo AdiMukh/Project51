@@ -1,0 +1,64 @@
+.header{
+    background-color: #FFD700;
+    display: flex;
+    justify-content: space-between;
+}
+
+.origami1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.teddy{
+    display: flex;
+    height: 400px;
+    width: 33%;
+}
+
+.pigeon{
+    display: flex;
+    height: 400px;
+    width: 33%;
+}
+
+.origami2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.camel{
+    display: flex;
+    height: 400px;
+    width: 33%;
+}
+
+.chameleon{
+    display: flex;
+    height: 400px;
+    width: 33%;
+}
+
+.panda{
+    display: flex;
+    height: 400px;
+    width: 33%;
+}
+
+.cicada{
+    display: flex;
+    height: 400px;
+    width: 33%;
+}
+
+.para{
+    font-size: 20px;
+    color: #00008b;
+}
+
+body{
+    background-color: #808080;
+    margin: 10px;
+}
+
